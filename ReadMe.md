@@ -6,7 +6,9 @@
 2. [嵌入式系統課程材料領用系統](./Embedded_System_Course_Material_Management/Embedded_System_Course_Material_Management_ReadMe.md)
 3. [機車駕駛行為追蹤系統](https://github.com/EduCatCode/RideTrack/tree/main)
 4. [夾具異常監控預警系統](./Fixture_Anomaly_Detection_System.md)
-5. [更多專案](./More_Projects/README.md)
+5. [訊號處理與視覺化系統](https://github.com/EduCatCode/SignalVizTool)
+6. [表面粗糙度智能監測系統](./Surface_Roughness_Intelligent_Monitoring.md)
+8. [更多專案](./More_Projects/README.md)
 
 ## 簡介
 
