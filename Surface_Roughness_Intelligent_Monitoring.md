@@ -36,7 +36,7 @@
 
 | 安裝感測儲存模組與感測器 | 電控箱安裝比流器位置 | 安裝完成且放置於電控箱上 |
 |:--------------------------:|:--------------------:|:-------------------------:|
-| ![左圖](https://hackmd.io/_uploads/ryrvE_NUC.png)| ![中圖](https://hackmd.io/_uploads/HJI_EuVUC.png) | ![右圖](https://hackmd.io/_uploads/r17YV_EL0.png)|
+| ![圖片1](https://hackmd.io/_uploads/S1zlUnH8C.jpg)|![圖片2](https://hackmd.io/_uploads/H1we83HUC.jpg) |![圖片3](https://hackmd.io/_uploads/By9lU2HUA.jpg)|
 
 ## 實驗 Part1
 
@@ -53,7 +53,7 @@
 
 | 工件1 | 電流訊號切分工序 |
 |:-----:|:-----:|
-| ![工件1]![image](https://hackmd.io/_uploads/SkF6EuELC.png)| ![image](https://hackmd.io/_uploads/S1PAV_VLR.png) |
+| ![圖片4](https://hackmd.io/_uploads/rJ1bU3BLA.jpg)| ![圖片5](https://hackmd.io/_uploads/SJ8Z82H80.png) |
 
 ## 實驗 Part2
 
@@ -63,7 +63,7 @@
 
 | 加工較細的工件 | 使用振動訊號區分6面 |
 |:--------------:|:-----------------:|
-| ![加工較細的工件](https://hackmd.io/_uploads/HkweB_V8R.png) | ![使用振動訊號區分6面](https://hackmd.io/_uploads/B1EbHuEU0.png) |
+| ![圖片6](https://hackmd.io/_uploads/rJLZLnSI0.jpg) | ![圖片7](https://hackmd.io/_uploads/r1UWU3BL0.png) |
 
 ### 六筆加工完成工件RA（細的工件）
 
@@ -126,7 +126,7 @@
 - **研磨進給 (um) 與 RA 值**：研磨進給與各面RA值之間的相關性不是非常強，這表明研磨進給的變化對RA值的影響可能有限。
 - **修砂進給量 (mm/min) 與 RA 值**：修砂進給量與RA值之間也沒有顯示出強烈的相關性，意味著修砂進給量的改變可能不是影響RA值的主要因素。
 
-![相關性分析](https://hackmd.io/_uploads/BkM6BdNLC.png)
+![圖片8](https://hackmd.io/_uploads/r1LZLnSIR.png)
 
 
 ### 描述性統計分析
@@ -155,15 +155,15 @@
 
 | RA與加工次數關係圖 | 加上考量修砂給擊量的關係圖 |
 |:-------------------:|:-----------------------------:|
-| ![RA與加工次數關係圖](https://hackmd.io/_uploads/By0b8_EI0.png) | ![加上考量修砂給擊量的關係圖](https://hackmd.io/_uploads/HJpzUdVUR.png) |
+| ![圖片9](https://hackmd.io/_uploads/H1IWU2rUC.png)| ![圖片10](https://hackmd.io/_uploads/ryIZI2S8R.png) |
 
-## 結論
+## 初步觀察與深入分析
 
 ### 材料去除率（Material Removal Rate, MRR）的深入分析
 
 材料去除率，通常以MRR表示，是衡量研磨加工效率的重要指標。MRR定義為單位時間內從工件表面去除的材料體積，其值不僅受研磨力的影響，還與砂輪與工件間的接觸面積、砂輪的磨損情況緊密相關。當砂輪的尺寸變小，即直徑減少時，其每轉一圈所經過的路徑長度隨之縮短，這可能導致在相同的時間內，去除的材料量減少，從而降低了MRR。
 
-![MRR計算公式](https://hackmd.io/_uploads/rk078OEIC.png)
+![圖片11](https://hackmd.io/_uploads/S1e8WUhHU0.png)
 
 
 綜合上述因素，當砂輪尺寸變小，由於接觸面積減少及每轉一圈的切削路徑縮短，由於久博在砂輪主軸轉速不變情形，加工次數越多當砂輪變小時，材料移除率就會下降。因此，在實驗過程中，可發現即使是同參數但RA值在加工次數提升時，RA值也會跟著提高。
@@ -193,7 +193,7 @@
 
 | RA 0.174 | RA 0.247 |
 |:--------:|:--------:|
-| ![RA 0.174](https://hackmd.io/_uploads/HkawUdNUR.png)| ![RA 0.247](https://hackmd.io/_uploads/SJ9_ION8R.png) |
+| ![圖片12](https://hackmd.io/_uploads/ryLbInrU0.png)| ![圖片13](https://hackmd.io/_uploads/r1xUb8hBLA.png) |
 
 ### 模型訓練分析
 
@@ -205,7 +205,7 @@
 
 | 多模型建立 | 多模型混淆矩陣 |
 |:----:|:----:|
-| ![模型1](https://hackmd.io/_uploads/r1S58OE8C.png) | ![模型2](https://hackmd.io/_uploads/rylsI_VUA.png) |
+| ![圖片14](https://hackmd.io/_uploads/SkeIZL3rU0.png) |![圖片15](https://hackmd.io/_uploads/ByKWUhSLA.png)|
 
 ### 結論
 
