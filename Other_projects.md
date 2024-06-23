@@ -45,7 +45,7 @@
 4. 安裝電池和馬達控制器L298N，連接馬達控制器到馬達和Arduino。
 5. 使用杜邦線將各元件連接到Arduino和Raspberry Pi上。
 
-![硬體組裝示意圖](path/to/your/image.jpg)
+![Arduino Car](https://hackmd.io/_uploads/Sk4n_3HIC.jpg)
 
 ## 程式設計
 
@@ -124,7 +124,7 @@ void turnRight() {
   digitalWrite(MOTOR_RIGHT_BACKWARD, HIGH);
 }
 
-
+```
 
 
 ## 真值表
@@ -142,7 +142,6 @@ void turnRight() {
 
 ## 實際成品
 
-![Arduino Car](https://hackmd.io/_uploads/Sk4n_3HIC.jpg)
 ![Tracking](https://hackmd.io/_uploads/Bkc6OhSU0.png)
 
 
