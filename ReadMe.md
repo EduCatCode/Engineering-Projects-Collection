@@ -8,6 +8,7 @@
 4. [夾具異常監控預警系統](./Fixture_Anomaly_Detection_System.md)
 5. [訊號處理與視覺化系統](https://github.com/EduCatCode/SignalVizTool)
 6. [表面粗糙度智能監測系統](./Surface_Roughness_Intelligent_Monitoring.md)
+7. [晶圓製造設備效率提升](./Wafer_Equipment_Monitoring_System.md)
 8. [更多專案](./Other_projects.md)
 
 ## 簡介
