@@ -1,0 +1,35 @@
+name: llm-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - cmake=3.22.1
+  - cudatoolkit=11.3.1
+  - rocm=6.1.1
+  - go=1.22.1
+  - nvidia-apex
+  - openssl
+  - libffi
+  - gxx_linux-64
+  - gfortran_linux-64
+  - libstdcxx-ng
+  - gcc_linux-64
+
+  - pip:
+    - gitpython
+    - requests
+    - pyyaml
+    - wheel
+
+  - rpm:
+    - devtoolset-10
+    - centos-release-scl
+    - rh-gcc-toolset-10
+    - llvm-toolset-7.0
+    - cmake3
+    - openssl-devel
+    - libffi-devel
+
+  - apt:
+    - ca-certificates
