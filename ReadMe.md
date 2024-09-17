@@ -12,7 +12,8 @@
 8. [車削製程優化](./Turning_Process_Optimization.md)
 9. [使用 AI 進行晶圓異常自動偵測與分類](./WaferDefectAI_Automated_Wafer_Anomaly_Detection_and_Classification_Using_AI.md)
 10. [精密研磨異常診斷](./Precision_Grinding_Anomaly_Detection_and_Adaptive_Control_System.md)
-11. [更多專案](./Other_projects.md)
+11. [馬達偏心異常診斷](./Motor_Eccentricity_Anomaly_Detection_System.md)
+12. [更多專案](./Other_projects.md)
 
 ## 簡介
 
