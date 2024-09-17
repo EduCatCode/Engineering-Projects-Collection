@@ -10,8 +10,8 @@
 6. [表面粗糙度智能監測系統](./Surface_Roughness_Intelligent_Monitoring.md)
 7. [晶圓製造設備效率提升](./Wafer_Equipment_Monitoring_System.md)
 8. [車削製程優化](./Turning_Process_Optimization.md)
-9. [使用 AI 進行晶圓異常自動偵測與分類](./WaferDefectAI_Automated_Wafer_Anomaly_Detection_and_Classification_Using_AI.md)
-10. [精密研磨異常診斷](./Precision_Grinding_Anomaly_Detection_and_Adaptive_Control_System.md)
+9. [使用 AI 進行晶圓異常自動偵測與分類](https://github.com/EduCatCode/Engineering-Projects-Collection/blob/main/WaferDefectAI%20Automated%20Wafer%20Anomaly%20Detection%20and%20Classification%20Using%20AI.md)
+10. [精密研磨異常診斷](https://github.com/EduCatCode/Engineering-Projects-Collection/blob/main/Precision%20Grinding%20Anomaly%20Detection%20and%20Adaptive%20Control%20System.md)
 11. [馬達偏心異常診斷](./Motor_Eccentricity_Anomaly_Detection_System.md)
 12. [更多專案](./Other_projects.md)
 
