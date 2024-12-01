@@ -13,7 +13,8 @@
 9. [使用 AI 進行晶圓異常自動偵測與分類](https://github.com/EduCatCode/Engineering-Projects-Collection/blob/main/WaferDefectAI%20Automated%20Wafer%20Anomaly%20Detection%20and%20Classification%20Using%20AI.md)
 10. [精密研磨異常診斷](https://github.com/EduCatCode/Engineering-Projects-Collection/blob/main/Precision%20Grinding%20Anomaly%20Detection%20and%20Adaptive%20Control%20System.md)
 11. [馬達偏心異常診斷](./Motor_Eccentricity_Anomaly_Detection_System.md)
-12. [更多專案](./Other_projects.md)
+12. [OCR影像辨識LCD溫度](./OCR_LCD_Temperature_Reader.md)
+13. [更多專案](./Other_projects.md)
 
 ## 簡介
 
