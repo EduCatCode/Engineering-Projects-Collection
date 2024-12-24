@@ -14,7 +14,8 @@
 10. [精密研磨異常診斷](https://github.com/EduCatCode/Engineering-Projects-Collection/blob/main/Precision%20Grinding%20Anomaly%20Detection%20and%20Adaptive%20Control%20System.md)
 11. [馬達偏心異常診斷](./Motor_Eccentricity_Anomaly_Detection_System.md)
 12. [OCR影像辨識LCD溫度](./OCR_LCD_Temperature_Reader.md)
-13. [更多專案](./Other_projects.md)
+13. [即時製程監控與異常偵測系統](./Real-Time Process Monitoring and Anomaly Detection System.md to RealTime_Process_Monitoring_and_Anomaly_Detection_System.md) 
+14. [更多專案](./Other_projects.md)
 
 ## 簡介
 
