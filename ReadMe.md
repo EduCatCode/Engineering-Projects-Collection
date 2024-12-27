@@ -15,7 +15,8 @@
 11. [馬達偏心異常診斷](./Motor_Eccentricity_Anomaly_Detection_System.md)
 12. [OCR影像辨識LCD溫度](./OCR_LCD_Temperature_Reader.md)
 13. [即時製程監控與異常偵測系統](./RealTime_Process_Monitoring_and_Anomaly_Detection_System.md)
-14. [更多專案](./Other_projects.md)
+14. [FANUC CNC 加工時間監控與分析工具](./FANUC_CNC_Process_Time_Monitoring_and_Analysis_Tool.md)
+15. [更多專案](./Other_projects.md)
 
 ## 簡介
 
