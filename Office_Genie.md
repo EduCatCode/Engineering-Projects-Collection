@@ -61,10 +61,10 @@
 
 
 OfficeGenie/ 
-├── main.py # 主應用程式：包含 GUI 與所有功能實作 
-├── README.md # 專案說明文件（本文件） 
-├── requirements.txt # 專案相依性列表（例如：ttkbootstrap, yt_dlp, whisper 等） 
-└── models/ # (可選) 存放已下載模型的目錄
+<br>├── main.py # 主應用程式：包含 GUI 與所有功能實作 
+<br>├── README.md # 專案說明文件（本文件） 
+<br>├── requirements.txt # 專案相依性列表（例如：ttkbootstrap, yt_dlp, whisper 等） 
+<br>└── models/ # (可選) 存放已下載模型的目錄
 
 ## 設定與執行說明
 1. **前置需求**：
