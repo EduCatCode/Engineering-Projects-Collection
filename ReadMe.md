@@ -17,7 +17,8 @@
 13. [即時製程監控與異常偵測系統](./RealTime_Process_Monitoring_and_Anomaly_Detection_System.md)
 14. [FANUC CNC 加工時間監控與分析工具](./FANUC_CNC_Process_Time_Monitoring_and_Analysis_Tool.md)
 15. [可視化網頁數據擷取系統](./Web_Data_Scraper.md)
-16. [更多專案](./Other_projects.md)
+16. [辦公精靈](./Office_Genie.md)
+17. [更多專案](./Other_projects.md)
 
 ## 簡介
 
