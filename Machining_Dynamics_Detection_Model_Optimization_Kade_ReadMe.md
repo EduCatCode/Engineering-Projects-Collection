@@ -92,6 +92,7 @@
 以下圖表展示了我們的預警系統成果。紅色垂直線是廠商確認換刀的時間，綠色則是我們提醒廠商換刀的時間。我們基本上都有提前預警到，只有一次假警報，但廠商認為假警報比預測錯誤更好。
 
 ![成果展示](https://hackmd.io/_uploads/HJtUFnmU0.png)
+![image](https://github.com/user-attachments/assets/19ac5548-dcf5-4be2-8dbf-bfb35077e773)
 
 ## 未來發展
 
